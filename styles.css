@@ -5,19 +5,18 @@
 }
 
 .barrasuperior
-{
+{   
+    display: flex;
+    flex-direction: row;
     background-color: #EEE73D;
-    border: 3px  #EEE73D;
-    height: 68px;
-}
-.corpo
-{
-    height: 620px;
+    border: 3px  #000000;
 }
 
-.footer
+.itensmenu
 {
+    width: 25%;
     background-color: #EEE73D;
-    height: 40px;
-    border: 3px #000000;
+    border: 3px;
+    height: 68px;
 }
+

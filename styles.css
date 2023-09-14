@@ -1,20 +1,23 @@
-.cabeçalho
+.header
 {
     background-color: #EEE73D;
-    width: 1440px;
     height: 200px;
-    padding: 20px;
-    margin: 0;
+}
+
+.barrasuperior
+{
+    background-color: #EEE73D;
+    border: 3px  #EEE73D;
+    height: 68px;
 }
 .corpo
 {
-    background-color: #EEE73D;
+    height: 620px;
 }
 
-div
-
+.footer
 {
     background-color: #EEE73D;
-    margin-top: 100px;
-    border: 2px solid (0, 0, 0);
+    height: 40px;
+    border: 3px #000000;
 }
